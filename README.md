@@ -1,5 +1,5 @@
 # 2022-html 공부용 예제:+1: 
-꾸준히 ! :rofl:
+꾸준히 공부하는 중 ! :rofl:
 
 - 기본 홈 화면 - CSS 설명이 기본으로 나오도록 설정
 ![image](https://user-images.githubusercontent.com/102573192/209815092-dec0c990-253b-46c4-8274-446fd1e2dc1a.png)
