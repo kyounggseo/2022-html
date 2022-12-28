@@ -7,7 +7,7 @@ body{
   }
   h1 {
     font-size:45px;
-    text-align: center;
+    text-align:center;
     border-bottom:1px solid gray;
     margin:0;
     padding:20px;
@@ -19,7 +19,7 @@ body{
     padding:20px;
   }
   #grid{
-    display: grid;
+    display:grid;
     grid-template-columns: 150px 1fr;
   }
   #grid ol{
@@ -30,7 +30,7 @@ body{
   }
   @media(max-width:800px){
     #grid{
-      display: block;
+      display:block;
     }
     ol{
       border-right:none;
